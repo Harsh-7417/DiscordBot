@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 import botUtlilities
 
-project_folder = os.path.expanduser('~/Desktop/DiscordBOT')  # adjust as appropriate
+project_folder = os.path.expanduser('~/DiscordBOT')  # adjust as appropriate
 load_dotenv(os.path.join(project_folder, '.env'))
 
 client = discord.Client()
