@@ -5,7 +5,8 @@ A basic discord bot build in Python with MongoDB database
 1) Install python 3.7
 2) Install pip
 3) Cretate virtual env
-4) install all dependencies : pip install -r requirements.txt
+4) Install all dependencies : pip install -r requirements.txt
+5) Update all required tokens/info in .env file
 
 **How to run:**
 
