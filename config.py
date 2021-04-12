@@ -4,7 +4,7 @@ from pymongo import MongoClient
 """import logging #Can log information as well if required"""
 
 """load env file"""
-project_folder = os.path.expanduser('~/Desktop/DiscordBOT')  # adjust as appropriate
+project_folder = os.path.expanduser('~/DiscordBOT')  # adjust as appropriate
 load_dotenv(os.path.join(project_folder, '.env'))
 
 
