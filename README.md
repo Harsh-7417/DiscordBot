@@ -23,7 +23,7 @@ python3 main.py
 
 
 **Bot Usage:**
-1) !google "text to search" --> Will display top 5 hyperlinks related to "text to search"
+1) !google "text to search" --> Will display top 5 hyperlinks related to "text to search". Using google API to fetch hyperlinks
 2) !recent "text to lookup" --> will display history of user related to "text to lookup". History is saved in mongoDB.
   
 
