@@ -1,4 +1,4 @@
-# DiscordBot
+# DiscordBot (Ninja Bot)
 A basic discord bot build in Python with MongoDB database
 
 #main.py :  Having Bot async methods to respond/react to client events.
